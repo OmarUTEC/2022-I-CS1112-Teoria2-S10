@@ -1,0 +1,3 @@
+C:/Users/Omar/Desktop/CICLO ll/PROGRAMACION ll/Semana10/10_A/2022-I CS1112-Teoria2-S10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Omar/Desktop/CICLO ll/PROGRAMACION ll/Semana10/10_A/2022-I CS1112-Teoria2-S10/cmake-build-debug/CMakeFiles/2022_I_CS1112_Teoria2_S10.dir
+C:/Users/Omar/Desktop/CICLO ll/PROGRAMACION ll/Semana10/10_A/2022-I CS1112-Teoria2-S10/cmake-build-debug/CMakeFiles/edit_cache.dir
